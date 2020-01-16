@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDMusic", "DnDMusic.csproj", "{ECDAC95B-0DBD-4ED6-9B14-7889447D7264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECDAC95B-0DBD-4ED6-9B14-7889447D7264}.Debug|x64.ActiveCfg = Debug|x64
+		{ECDAC95B-0DBD-4ED6-9B14-7889447D7264}.Debug|x64.Build.0 = Debug|x64
+		{ECDAC95B-0DBD-4ED6-9B14-7889447D7264}.Release|x64.ActiveCfg = Release|x64
+		{ECDAC95B-0DBD-4ED6-9B14-7889447D7264}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5AD3283-1C2B-4138-8946-BB62BFB7FF69}
+	EndGlobalSection
+EndGlobal
