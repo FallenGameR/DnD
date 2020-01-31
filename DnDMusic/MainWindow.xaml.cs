@@ -38,7 +38,10 @@ namespace DnDMusic
 
             //https://developers.google.com/youtube/player_parameters
             //https://developers.google.com/identity/protocols/OAuth2InstalledApp
-            //Freemake
+            //Freemake, save all, annotate, save graphics?
+            //play mp3, volume, start, stop, loop, get track length, get mp3 metadata
+            //use mp3 metadata for tags
+            //https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api
         }
     }
 }
